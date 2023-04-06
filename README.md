@@ -66,3 +66,6 @@ Once AIMS grid is defined, next step is data discovery. In this step, data analy
                   \
                   \
                   ![Dashboard](https://user-images.githubusercontent.com/67784234/122873323-3df0cb00-d34f-11eb-9e96-e7ccc43f8002.png)
+                             ![Dashboard]  (https://github.com/Ahimsa12345/SALES-INSIGHTS-/blob/Ahimsa12345-patch-1/Performance%20insights.png)
+			     
+			     
