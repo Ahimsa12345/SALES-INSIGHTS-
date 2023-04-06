@@ -8,7 +8,7 @@ AtliQ Hardware is a company and it's a company which supplies the hardware perip
 Company have a head office in Delhi India and it has regional offices in different states of India and Bhavin Patel is a sales director of this company and he's managing the business from the head office and company has regional managers per state or per region or district.
 
 
-![a](https://user-images.githubusercontent.com/67784234/122781289-46a0bd00-d2cd-11eb-9f0e-ddf9ba7ecb46.png)
+![a](f8abd5401ba057b6a03056f609f23b0f696f1d27)
 
 What's happening with this company is the sales are declining for this company and Bhavin Patel as a sales director is having a lot of struggle tracking where the business is failing because when the business is smaller let's say you're 10 employee’s small business you can manage but when your business is bigger and you have multiple offices it's hard to manage actually you don't get a right picture and that's when data analysis can help you. 
 So for Bhavin Patel when he talks with the regional managers or regarding the business in their areas the managers have a tendency to paint a rosy picture so sometimes they don't lie but they put sugar coating around the facts and as a sales director Bhavin Patel doesn't have any idea on what is actually happen at a ground level, he doesn't have data insights so that's the challenge that he goes through and when he calls this regional managers they will give him this big excel files and these excel files as humans we're not good at consuming so many numbers you know we want simple insights so he's frustrated because these managers are giving him so many excel files and he's like why the hell you're giving me 69 excel files.
