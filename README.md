@@ -34,7 +34,7 @@ Once AIMS grid is defined, next step is data discovery. In this step, data analy
              After that i have related dimension and measures, here transactions tables is measures and other four are dimensions.
              Next i have done data cleaning.
              \
-             - [Tableau File](https://github.com/Abhishekkr26/Sales-Insights-Project/blob/14bd4df1b052fdb74178260c4d842869b344656b/Sales%20Insights%20Dashboard.twb)
+             - [Power BI File](https://github.com/Ahimsa12345/SALES-INSIGHTS-/blob/Ahimsa12345-patch-1/Key%20Insights%20.png)
              \
              - [Tableau Dashboard](https://public.tableau.com/views/SalesInsightsDashboard2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
              \
