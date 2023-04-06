@@ -2,7 +2,7 @@
 - [PROBLEM STATEMENT](#problem-statement)
 - [PROJECT PLANNING AND APPROACH](#project-planning-and-approach)
 - [MY APPROACH FOR THIS PROJECT](#my-approach-for-this-project)
-- [DASHBOARD](https://public.tableau.com/views/SalesInsightsDashboard2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [DASHBOARD](https://github.com/Ahimsa12345/SALES-INSIGHTS-/blob/Ahimsa12345-patch-1/Key%20Insights%20.png)
 ## PROBLEM STATEMENT
 AtliQ Hardware is a company and it's a company which supplies the hardware peripherals to different clients such as Normad stores, Excel stores, Surge stores. These are all the clients and this is a hardware company which will supply computers other peripheral networking equipment to them. 
 Company have a head office in Delhi India and it has regional offices in different states of India and Bhavin Patel is a sales director of this company and he's managing the business from the head office and company has regional managers per state or per region or district.
