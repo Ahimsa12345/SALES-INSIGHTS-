@@ -51,7 +51,5 @@ Once AIMS grid is defined, next step is data discovery. In this step, data analy
 
 ***Step3:*** Creation of dashboard
                   \
-                  -[See the dashboard on Tableau Public](https://public.tableau.com/views/SalesInsightsDashboard2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-                  \
                   \
                   ![Dashboard](https://user-images.githubusercontent.com/67784234/122873323-3df0cb00-d34f-11eb-9e96-e7ccc43f8002.png)
