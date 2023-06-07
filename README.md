@@ -29,17 +29,6 @@ Once AIMS grid is defined, next step is data discovery. In this step, data analy
              - [Database](db_dump.sql)
              \
              - [Data Analysis](https://github.com/Abhishekkr26/Sales-Insights-Project/blob/14bd4df1b052fdb74178260c4d842869b344656b/Data%20analysis.sql)
-
-***Step2:*** Then connecting mysql server to tableau desktop and loading the sales database.
-             After that i have related dimension and measures, here transactions tables is measures and other four are dimensions.
-             Next i have done data cleaning.
-             \
-             - [Tableau File](https://github.com/Abhishekkr26/Sales-Insights-Project/blob/14bd4df1b052fdb74178260c4d842869b344656b/Sales%20Insights%20Dashboard.twb)
-             \
-             - [Tableau Dashboard](https://public.tableau.com/views/SalesInsightsDashboard2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-             \
-             \
-             Data cleaning in tableau 
 			    :
              1.	In transactions table , column sales amont contain some negative or zero values , acccording to me it will be a system error when filling the data so i have                     filter out those values and applied filter that sales amount should be at least 1 rupees
                   .
